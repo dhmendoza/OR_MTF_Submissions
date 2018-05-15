@@ -1,8 +1,8 @@
 /*Removes any prexisting padding or marginal space from the html and body elements.*/
 
 html body {
-	margin: 0;
-	padding: 0;
+	margin: 20px;
+	padding: 20px;
 	/*Remove this background-color! It is here to make sure that the css and html are linked.*/
 	background-color: #5abaf3;
 }
